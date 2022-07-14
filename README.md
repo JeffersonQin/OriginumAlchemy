@@ -14,7 +14,7 @@
 
 数据集下载 / 更新：
 
-```python
+```bash
 python utils/download_icons.py
 ```
 
@@ -28,7 +28,7 @@ python utils/download_icons.py
 
 ## Training
 
-```
+```bash
 python training_script.py
 ```
 
