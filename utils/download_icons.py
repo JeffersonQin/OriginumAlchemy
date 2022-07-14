@@ -31,3 +31,6 @@ def download_icons(debug_show=False):
 
         if debug_show:
             print(filename)
+
+if __name__ == '__main__':
+    download_icons()
