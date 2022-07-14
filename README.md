@@ -12,6 +12,12 @@
 
 位于 `./icons` 文件夹。
 
+数据集下载 / 更新：
+
+```python
+python utils/download_icons.py
+```
+
 ## Data Augmentation
 
 随机调整灰度 50% - 100%。
