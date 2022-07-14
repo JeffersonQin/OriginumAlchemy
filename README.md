@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='icons/Bskill_ws_polyester.png' width=75 height=75><br>
+  <img src='avatar.png' width=75 height=75><br>
   <b>明日方舟技能图标识别</b>
   <h1>⚗ OriginumAlchemy 源石炼金学</h1>
 </div>
